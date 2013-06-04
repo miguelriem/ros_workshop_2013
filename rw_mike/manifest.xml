@@ -1,0 +1,14 @@
+<package>
+  <description brief="rw_mike">
+
+     rw_mike
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rw_mike</url>
+
+</package>
+
+
